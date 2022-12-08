@@ -1,0 +1,33 @@
+{
+  "name": "api-nodejs",
+  "version": "1.0.0",
+  "description": "api rest node mysql2 sequelize ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ridha-boughediri/api-nodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ridha-boughediri/api-nodeJS/issues"
+  },
+  "homepage": "https://github.com/ridha-boughediri/api-nodeJS#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "eslint": "^8.29.0",
+    "express": "^4.18.2",
+    "helmet": "^6.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "morgan": "^1.10.0",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.20",
+    "passport-jwt": "^4.0.0",
+    "sequelize": "^6.26.0"
+  }
+}
